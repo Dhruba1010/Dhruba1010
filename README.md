@@ -1,7 +1,5 @@
 
 
-![Dhruba Singha ,I'm a passionate and hardworking Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20and%20hardworking%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Dhruba%20Singha%20)
-
 <!-- <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1> -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dhruba Singha</h1>
 
@@ -13,11 +11,10 @@
 
 - 💞️ I love gaming, listening rock music, playing chess, watching sports.
 
-You can see my personal portfolio https://github.com/Dhruba1010/Portfolio.
+You can see my personal portfolio https://github.com/Dhruba1010/New-Portfolio.
 
 <hr />
 
-[![Thanks for checking out my profile!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f60e_1f91f-1f3fe&text=Thanks%2520for%2520checking%2520out%2520my%2520profile%21)](https://pimp-my-readme.webapp.io)
 
 
 
