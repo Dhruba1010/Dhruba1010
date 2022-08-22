@@ -7,7 +7,7 @@
 
 - 💬 You can ask me about **Javascript , Data structure , Algorithm , HTML , CSS , React , Express , MongoDB , NodeJS , Redux.**
 
-- 📫 You can reach me on <a target:'_blank' href="https://www.linkedin.com/in/dhruba-singha">LinkedIn</a> or simply <a href="mailto:dhrubasingha096p@gmail.com">mail</a> me.
+- 📫 You can reach me on <a target='_blank' href="https://www.linkedin.com/in/dhruba-singha">LinkedIn</a> or simply <a href="mailto:dhrubasingha096p@gmail.com">mail</a> me.
 
 - 💞️ I love gaming, listening rock music, playing chess, watching sports.
 
